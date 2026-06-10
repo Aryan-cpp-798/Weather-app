@@ -19,7 +19,7 @@ A real-time weather web app built with **Python**, **Flask**, and the **OpenWeat
 | Layer | Technology |
 |-------|-----------|
 | Backend | Python, Flask |
-| Frontend | HTML, CSS (Jinja2 templates) |
+| Frontend | HTML |
 | API | OpenWeatherMap REST API |
 
 ---
